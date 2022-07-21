@@ -1,0 +1,7 @@
+[
+    {"url": "/", "name": "Home page"},
+    {"url": "/products/", "name": "Products page"},
+    {"url": "/user/", "name": "User page"},
+    {"url": "/user/logIn/", "name": "Login page"},
+    {"url": "/cart/", "name": "Cart page"}
+]
